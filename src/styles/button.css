@@ -1,0 +1,20 @@
+
+
+.primaryBtn{
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+}
+.secondaryBtn{
+    background-color: gray;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+}
+.dangerBtn{
+    background-color: orangered;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+}
